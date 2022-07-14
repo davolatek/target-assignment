@@ -1,4 +1,4 @@
-# Target Assignment from Paradigm HR
+# Target Assignment
 
 * A given array with a certain length is created
 * A target variable is also created
